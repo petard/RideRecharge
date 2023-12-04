@@ -12,12 +12,13 @@
 4) Run!
 
 ## Compatibility
-Support are Volvo SPA models running the Sensus infotainment (model year 2015-2022). SPA models with Android Automotive infotainment (AAOS) are not supported as they require a different Volvo API.
+* The project requires iOS 16 or higher
+* Support are Volvo SPA models running the Sensus infotainment (model year 2015-2022). SPA models with Android Automotive infotainment (AAOS) are not supported as they require a different Volvo API.
 
 ## Notes
-1) Charging locations
+### Charging locations
 Showing charging locations requires an key for the ENBW or Tom Tom API. To obtain a key you need to register as developer with ENBW and / or Tom Tom. Once you obtained the API key enter it in the Info.plist (TomTom_API_Key for Tom Tom, ENBW_API_Key for ENBW). The key must be entered both in the app and ShareExtension Info.plist. 
-2) Google Maps locations
+### Google Maps locations
 Sharing locations from the Google Maps app requires an Google Maps API key. Once you obtain the key, enter it in the Info.plist (Google_API_Key). The key must be entered both in the app and ShareExtension Info.plist. The API is required to resolve the URL received from the Google Maps into coordinates and address.
 
 <img src="screenshot.jpg" width="200">
