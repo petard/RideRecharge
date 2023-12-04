@@ -13,7 +13,7 @@
 
 ## Compatibility
 * The project requires iOS 16 or higher
-* Support are Volvo SPA models running the Sensus infotainment (model year 2015-2022). SPA models with Android Automotive infotainment (AAOS) are not supported as they require a different Volvo API.
+* Supports Volvo SPA models running the Sensus infotainment (model year 2015-2022). SPA models with Android Automotive infotainment (AAOS) are not supported as they require a different Volvo API.
 
 ## Notes
 ### Charging locations
