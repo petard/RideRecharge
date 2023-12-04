@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C22810D8-3844-4D22-B493-D535BD835D65"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43F3A45A-82D0-4153-9AB2-D6044AD20326"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Juice/v2/CarDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5A68644-6E12-4AFF-86F2-26508339906C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Juice/Main/Settings/SettingsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EC83700-D951-4B50-98D0-8BD88D772F02"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Juice/Main/Settings/SettingsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A37B0389-0654-4F7B-8933-E9B03B3FF85A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Juice/Main/Settings/SettingsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48251FF8-A453-4B33-B330-C83A4AA5F32E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Juice/Models/Vehicle.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "load()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "48251FF8-A453-4B33-B330-C83A4AA5F32E - c7ede03210b3f845"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Juice.Vehicle.Position.load() async throws -&gt; Juice.Vehicle.Position"
+                  moduleName = "Juice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuri/Developer/github/petard/CarRemote/Juice/Models/Vehicle.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "748">
+               </Location>
+               <Location
+                  uuid = "48251FF8-A453-4B33-B330-C83A4AA5F32E - 6f40c8f75627ba5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static ShareExtension.Vehicle.Position.load() async throws -&gt; ShareExtension.Vehicle.Position"
+                  moduleName = "ShareExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuri/Developer/github/petard/CarRemote/Juice/Models/Vehicle.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "748">
+               </Location>
+               <Location
+                  uuid = "48251FF8-A453-4B33-B330-C83A4AA5F32E - c7ede03210b3f845"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Juice.Vehicle.Position.load() async throws -&gt; Juice.Vehicle.Position"
+                  moduleName = "Juice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuri/Developer/github/petard/CarRemote/Juice/Models/Vehicle.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "700">
+               </Location>
+               <Location
+                  uuid = "48251FF8-A453-4B33-B330-C83A4AA5F32E - 6f40c8f75627ba5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static ShareExtension.Vehicle.Position.load() async throws -&gt; ShareExtension.Vehicle.Position"
+                  moduleName = "ShareExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuri/Developer/github/petard/CarRemote/Juice/Models/Vehicle.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "700">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E420D324-36D6-4A49-A3FE-0C473DEF0109"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Juice/Models/Charge Location/GeoLookupService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "placeFor(locationQuery:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E420D324-36D6-4A49-A3FE-0C473DEF0109 - a171680dd2700ee7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static ShareExtension.GeoLookupService.Apple.placeFor(locationQuery: Swift.String) async throws -&gt; __C.CLPlacemark"
+                  moduleName = "ShareExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuri/Developer/github/petard/CarRemote/Juice/Models/Charge%20Location/GeoLookupService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "E420D324-36D6-4A49-A3FE-0C473DEF0109 - a171680dd2700ee7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static ShareExtension.GeoLookupService.Apple.placeFor(locationQuery: Swift.String) async throws -&gt; __C.CLPlacemark"
+                  moduleName = "ShareExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuri/Developer/github/petard/CarRemote/Juice/Models/Charge%20Location/GeoLookupService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "E420D324-36D6-4A49-A3FE-0C473DEF0109 - ac101fb18b49fed8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Juice.GeoLookupService.Apple.placeFor(locationQuery: Swift.String) async throws -&gt; __C.CLPlacemark"
+                  moduleName = "Juice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuri/Developer/github/petard/CarRemote/Juice/Models/Charge%20Location/GeoLookupService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "E420D324-36D6-4A49-A3FE-0C473DEF0109 - ac101fb18b49fed8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Juice.GeoLookupService.Apple.placeFor(locationQuery: Swift.String) async throws -&gt; __C.CLPlacemark"
+                  moduleName = "Juice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuri/Developer/github/petard/CarRemote/Juice/Models/Charge%20Location/GeoLookupService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

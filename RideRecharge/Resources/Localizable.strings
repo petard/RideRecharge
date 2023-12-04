@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+ RideRecharge
+
+  Created by pluto on 07.02.21.
+  
+*/
+
+"LOCATION_SERVICES_ALERT_TITLE" = "Location Services";
+"LOCATION_SERVICES_DISABLED" = "Location services are not enabled on this device. Please enable location services in Settings.";
+"LOCATION_SERVICES_DENIED" = "Location services were previously denied by the user. Please enable location services for this app in Settings.";
+
+"SEARCH_RESULTS" = "Search Results";
+"SEARCH_RESULTS_LOCATION" = "Search Results Near %@";
+
+"BUTTON_OK" = "OK";
+"BUTTON_CANCEL" = "Cancel";
+"BUTTON_SETTINGS" = "Settings";
+
+"TITLE_ALL_PLACES" = "All Places";
+
+"HOME_SUGGESTIONS" = "Suggested places and addresses";
+"HOME_SEARCHBAR_PLACEHOLDER" = "Search here for a place or address";
+"HOME_CURRENT" = "Your home address";
