@@ -1,7 +1,7 @@
 # RideRecharge
 
 ## This app let's you
-1) See various information about your car including current location on map, driving journal, average consumption for electic and petrol usage etc
+1) See various information about your car including current location on map, driving journal, average consumption for electric and petrol usage etc
 2) Find charging stations in the proximity of your car and their availability
 3) Send locations directly from Google or Apple Maps to the car instead of having to use the Volvo app.
 
